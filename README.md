@@ -21,7 +21,7 @@ The cross-sectional area changes with height because the walls are not vertical.
 
 A schematic of the geometry is shown below:
 
-![Tank-Drainage](Schematic.png)
+![Tank-Drainage](Schematic.jpeg)
 ---
 
 ## 🧮 Analytical Solution
